@@ -1,0 +1,8 @@
+{
+  "name": "Demo Org workflow",
+  "description": "NodeJs CICD workflow",
+  "iconName": "kode-kloud-icon",
+  "categories": [
+    "NPM Config"
+  ]
+}
